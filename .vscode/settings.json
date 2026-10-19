@@ -1,0 +1,7 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "chat.disableAIFeatures": false,
+    "settingsSync.ignoredExtensions": [
+        "github.copilot-chat"
+    ]
+}
